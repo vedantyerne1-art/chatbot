@@ -1,9 +1,8 @@
 streamlit
+ollama
+chromadb
 pandas
+pypdf
 numpy
-matplotlib
+sentence-transformers
 
-plotly
-bcrypt
-requests
-datetime
