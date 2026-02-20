@@ -14,7 +14,7 @@ MODEL_NAME = "gemma2:2b"
 EMBED_MODEL = "nomic-embed-text"
 
 st.set_page_config(page_title="Smart Chatbot", page_icon="🤖")
-st.title("🤖 Smart Chatbot (Chat + PDF + CSV)")
+st.title("🤖 Smart Chatbot")
 
 # ==========================
 # SIDEBAR
@@ -177,3 +177,4 @@ Answer clearly and in detail:
         {"role": "assistant", "content": full_response}
 
     )
+
