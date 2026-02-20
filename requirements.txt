@@ -2,4 +2,8 @@ streamlit
 pandas
 numpy
 matplotlib
+
 plotly
+bcrypt
+requests
+datetime
